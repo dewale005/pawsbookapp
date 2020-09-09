@@ -1,0 +1,10 @@
+export const LIGHT_MODE = 'LIGHT_MODE';
+export const DARK_MODE = 'DARK_MODE';
+export const RESTORE_TOKEN = 'RESTORE_TOKEN';
+export const SIGN_IN = 'SIGN_IN';
+export const SIGIN_OUT = 'SIGIN_OUT';
+export const USER_DATA_FETCHED = 'USER_DATA_FETCHED';
+export const ADD_PHOTO = 'ADD_PHOTO';
+export const ALL_PHOTO = 'ALL_PHOTO';
+export const ALL_USERS = 'ALL_USERS';
+export const ALL_CHAT_LIST = 'ALL_CHAT_LIST';
